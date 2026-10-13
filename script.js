@@ -55,7 +55,7 @@ function nextAction() {
             currentSlide++;
             updateSlide();
         } else {
-            alert("Thank you for watching the VL gate Orientation!");
+            alert("Thank you for watching the it gate Orientation!");
         }
     }
 }
